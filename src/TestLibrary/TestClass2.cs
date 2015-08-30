@@ -1,5 +1,4 @@
-﻿//test
-namespace TestLibrary
+﻿namespace TestLibrary
 {
     public class TestClass2
     {
@@ -7,7 +6,11 @@ namespace TestLibrary
         {
             foreach (var i in new [] {1,2,3,4})
             {
-                var TestVar = 3;
+                
+            }
+            foreach (var b in new[] { 1, 2, 3, 4 })
+            {
+
             }
         }
     }

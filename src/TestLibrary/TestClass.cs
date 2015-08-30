@@ -17,13 +17,5 @@ namespace TestLibrary
             }
             2.ToString();
         }
-
-        public void Testmethod2()
-        {
-            for (int i = 5 - 1; i >= 0; i--)
-            {
-            }
-            Console.WriteLine("Test output");
-        }
     }
 }
